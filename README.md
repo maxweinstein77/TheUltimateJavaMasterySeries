@@ -3,4 +3,4 @@
 This repo contains my code for the [The Ultimate Java Mastery Series](https://codewithmosh.com/p/the-ultimate-java-mastery-series) course.
 
 ## 🧩 Projects
-- ✅ [Hello World](TheUltimateJavaSeries/HelloWorld)
+- ✅ [Hello World](HelloWorld/src/com/mweinstein/Main.java)
