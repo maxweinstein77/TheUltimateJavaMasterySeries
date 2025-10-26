@@ -1,6 +1,6 @@
 package com.mweinstein;
 
-public class ArithmeticExpressions {
+public class _10_ArithmeticExpressions {
 
     public static void main(String[] args) {
         double result = (double)10 / (double)3;

@@ -1,6 +1,6 @@
 package com.mweinstein;
 
-public class OrderOfOperations {
+public class _11_OrderOfOperations {
 
     public static void main(String[] args) {
         int x = (10 + 3) * 2;

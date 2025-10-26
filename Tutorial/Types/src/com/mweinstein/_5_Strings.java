@@ -1,8 +1,6 @@
 package com.mweinstein;
 
-import java.awt.*;
-
-public class Strings {
+public class _5_Strings {
 
     public static void main(String[] args) {
         String message = "  Hello World" + "!!  ";

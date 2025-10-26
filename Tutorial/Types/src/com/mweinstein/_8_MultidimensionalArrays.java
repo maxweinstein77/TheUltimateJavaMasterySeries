@@ -2,7 +2,7 @@ package com.mweinstein;
 
 import java.util.Arrays;
 
-public class MultidimensionalArrays {
+public class _8_MultidimensionalArrays {
 
     public static void main(String[] args) {
         int[][] numbers = { { 1, 2, 3}, { 4, 5, 6}};

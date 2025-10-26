@@ -1,6 +1,6 @@
 package com.mweinstein;
 
-public class EscapeSequences {
+public class _6_EscapeSequences {
 
     public static void main(String[] args) {
 

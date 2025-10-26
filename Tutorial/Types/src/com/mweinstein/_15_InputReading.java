@@ -2,7 +2,7 @@ package com.mweinstein;
 
 import java.util.Scanner;
 
-public class InputReading {
+public class _15_InputReading {
 
     public static void main(String[] args) {
         Scanner scanner1 = new Scanner(System.in);

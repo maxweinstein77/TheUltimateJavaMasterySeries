@@ -1,6 +1,6 @@
 package com.mweinstein;
 
-public class Variables {
+public class _1_Variables {
 
     public static void main(String[] args) {
         int myAge = 30;

@@ -1,6 +1,6 @@
 package com.mweinstein;
 
-public class Casting {
+public class _12_Casting {
 
     public static void main(String[] args) {
         // Implicit casting

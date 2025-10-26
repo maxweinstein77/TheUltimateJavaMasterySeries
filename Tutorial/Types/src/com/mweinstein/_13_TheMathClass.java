@@ -1,6 +1,6 @@
 package com.mweinstein;
 
-public class TheMathClass {
+public class _13_TheMathClass {
     public static void main(String[] args) {
         int result1 = Math.round(1.1F);
         System.out.println(result1);

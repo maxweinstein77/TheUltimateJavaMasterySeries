@@ -2,7 +2,7 @@ package com.mweinstein;
 
 import java.text.NumberFormat;
 
-public class FormattingNumbers {
+public class _14_FormattingNumbers {
 
     public static void main (String[] arg) {
         NumberFormat currency1 = NumberFormat.getCurrencyInstance();
