@@ -5,3 +5,4 @@ This repo contains my code for the [The Ultimate Java Mastery Series](https://co
 ## 🧩 Projects
 - ✅ [Hello World](Projects/HelloWorld/src/com/mweinstein/HelloWorld.java)
 - ✅ [Mortgage Calculator](Projects/MortgageCalculator/src/com/mweinstein/MortgageCalculator.java)
+- ✅ [FizzBuzz](Projects/FizzBuzz/src/com/mweinstein/FizzBuzz.java)
