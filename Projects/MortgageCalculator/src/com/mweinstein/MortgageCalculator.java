@@ -30,4 +30,4 @@ public class MortgageCalculator {
                 NumberFormat.getCurrencyInstance().format(mortgage);
         System.out.println("Mortgage: " + mortgageFormatted);
     }
-    }
+}
