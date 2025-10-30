@@ -1,4 +1,4 @@
-# Java Full Course for Beginnerss
+# Java Full Course for Beginners
 
 This repo contains my code for the [The Ultimate Java Mastery Series](https://codewithmosh.com/p/the-ultimate-java-mastery-series) course.
 
