@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CleanCoding/CleanCoding.iml" filepath="$PROJECT_DIR$/CleanCoding/CleanCoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/ControlFlow/ControlFlow.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial.iml" filepath="$PROJECT_DIR$/Tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/Types/Types.iml" filepath="$PROJECT_DIR$/Types/Types.iml" />
