@@ -3,7 +3,7 @@ package com.mweinstein;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class MortgageCalculator {
+public class MortgageCalculatorV2 {
 
     public static void main(String[] args) {
         final byte PERCENT = 100;
