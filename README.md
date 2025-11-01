@@ -3,6 +3,8 @@
 This repo contains my code for the [The Ultimate Java Mastery Series](https://codewithmosh.com/p/the-ultimate-java-mastery-series) course.
 
 ## 🧩 Projects
+
+# Part 1: Fundamentals
 - ✅ [Hello World](Projects/HelloWorld/src/com/mweinstein/HelloWorld.java)
 - ✅ [Mortgage Calculator (V1)](Projects/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV1.java)
 - ✅ [FizzBuzz](Projects/FizzBuzz/src/com/mweinstein/FizzBuzz.java)
