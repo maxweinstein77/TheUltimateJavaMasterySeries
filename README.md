@@ -5,7 +5,7 @@ This repo contains my code for the [The Ultimate Java Mastery Series](https://co
 ## 🧩 Projects
 
 ### Part 1: Fundamentals
-- ✅ [Hello World](Projects/HelloWorld/src/com/mweinstein/HelloWorld.java)
+- ✅ [Hello World](Projects/Part1/HelloWorld/src/com/mweinstein/HelloWorld.java)
 - ✅ [Mortgage Calculator (V1)](Projects/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV1.java)
 - ✅ [FizzBuzz](Projects/FizzBuzz/src/com/mweinstein/FizzBuzz.java)
 - ✅ [Mortgage Calculator (V2)](Projects/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV2.java)
