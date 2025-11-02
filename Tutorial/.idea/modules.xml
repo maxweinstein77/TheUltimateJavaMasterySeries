@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Part2/Classes/Classes.iml" filepath="$PROJECT_DIR$/Part2/Classes/Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/CleanCoding/CleanCoding.iml" filepath="$PROJECT_DIR$/CleanCoding/CleanCoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/ControlFlow/ControlFlow.iml" />
       <module fileurl="file://$PROJECT_DIR$/DebuggingAndDeployingApplications/DebuggingAndDeployingApplications.iml" filepath="$PROJECT_DIR$/DebuggingAndDeployingApplications/DebuggingAndDeployingApplications.iml" />
