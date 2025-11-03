@@ -12,3 +12,7 @@ This repo contains my code for the [The Ultimate Java Mastery Series](https://co
 - ✅ [Mortgage Calculator (V3)](Projects/Part1/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV3.java)
 - ✅ [Mortgage Calculator (V4)](Projects/Part1/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV4.java)
 - ✅ [Mortgage Calculator (V5)](Projects/Part1/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV5.java)
+
+### Part 2: Object-oriented Programming
+- ✅ [Wage Calculator (V1)](Projects/Part2/WageCalculator/src/com/mweinstein/WageCalculatorV1.java)
+- ✅ [Wage Calculator (V2)](Projects/Part2/WageCalculator/src/com/mweinstein/WageCalculatorV2.java)
