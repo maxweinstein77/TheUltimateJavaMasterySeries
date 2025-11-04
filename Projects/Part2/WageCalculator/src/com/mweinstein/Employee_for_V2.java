@@ -5,6 +5,6 @@ public class Employee_for_V2 {
     public int hourlyRate;
 
     public int calculateWage(int extraHours) {
-        return baseSalary + (hourlyRate + extraHours);
+        return baseSalary + (hourlyRate * extraHours);
     }
 }
