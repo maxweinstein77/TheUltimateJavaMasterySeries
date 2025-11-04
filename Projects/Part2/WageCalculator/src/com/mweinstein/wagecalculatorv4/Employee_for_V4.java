@@ -1,6 +1,6 @@
-package com.mweinstein;
+package com.mweinstein.wagecalculatorv4;
 
-public class Employee_for_V3 {
+public class Employee_for_V4 {
     private int baseSalary;
     public int hourlyRate;
 
@@ -13,7 +13,7 @@ public class Employee_for_V3 {
         this.baseSalary = baseSalary;
     }
 
-    public int getBaseSalary() {
+    private int getBaseSalary() {
         return baseSalary;
     }
 
@@ -23,7 +23,7 @@ public class Employee_for_V3 {
         this.hourlyRate = hourlyRate;
     }
 
-    public int getHourlyRate() {
+    private int getHourlyRate() {
         return hourlyRate;
     }
 }

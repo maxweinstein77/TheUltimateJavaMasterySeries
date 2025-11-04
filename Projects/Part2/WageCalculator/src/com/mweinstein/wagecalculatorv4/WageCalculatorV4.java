@@ -1,4 +1,4 @@
-package com.mweinstein;
+package com.mweinstein.wagecalculatorv4;
 
 public class WageCalculatorV4 {
 
