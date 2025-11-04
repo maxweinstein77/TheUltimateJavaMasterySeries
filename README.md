@@ -16,3 +16,5 @@ This repo contains my code for the [The Ultimate Java Mastery Series](https://co
 ### Part 2: Object-oriented Programming
 - ✅ [Wage Calculator (V1)](Projects/Part2/WageCalculator/src/com/mweinstein/WageCalculatorV1.java)
 - ✅ [Wage Calculator (V2)](Projects/Part2/WageCalculator/src/com/mweinstein/WageCalculatorV2.java)
+- ✅ [Wage Calculator (V3)](Projects/Part2/WageCalculator/src/com/mweinstein/WageCalculatorV3.java)
+- ✅ [Wage Calculator (V4)](Projects/Part2/WageCalculator/src/com/mweinstein/WageCalculatorV4.java)
