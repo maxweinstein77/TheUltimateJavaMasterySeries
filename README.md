@@ -18,3 +18,4 @@ This repo contains my code for the [The Ultimate Java Mastery Series](https://co
 - ✅ [Wage Calculator (V2)](Projects/Part2/WageCalculator/src/com/mweinstein/wagecalculatorv2)
 - ✅ [Wage Calculator (V3)](Projects/Part2/WageCalculator/src/com/mweinstein/wagecalculatorv3)
 - ✅ [Wage Calculator (V4)](Projects/Part2/WageCalculator/src/com/mweinstein/wagecalculatorv4)
+- ✅ [Browser Application](Projects/Part2/BrowserApplication/src/com/mweinstein)
