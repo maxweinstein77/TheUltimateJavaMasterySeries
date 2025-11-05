@@ -1,4 +1,4 @@
-package com.mweinstein.browser;
+package com.mweinstein;
 
 public class Main {
 

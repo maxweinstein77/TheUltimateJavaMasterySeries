@@ -1,4 +1,4 @@
-package com.mweinstein.browser;
+package com.mweinstein;
 
 public class Browser {
     public void navigate(String address) {
