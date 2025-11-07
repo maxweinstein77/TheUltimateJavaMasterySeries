@@ -8,7 +8,7 @@ This repo contains my code for the [The Ultimate Java Mastery Series](https://co
 - ✅ [Hello World](Projects/Part1/HelloWorld/src/com/mweinstein/HelloWorld.java)
 - ✅ [Mortgage Calculator (V1)](Projects/Part1/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV1.java)
 - ✅ [FizzBuzz](Projects/Part1/FizzBuzz/src/com/mweinstein/FizzBuzz.java)
-- ✅ [Mortgage Calculator (V2)](Projects/Part1/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV2.java)
+- ✅ [Mortgage Calculator (V2 - Error Handling)](Projects/Part1/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV2.java)
 - ✅ [Mortgage Calculator (V3)](Projects/Part1/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV3.java)
 - ✅ [Mortgage Calculator (V4)](Projects/Part1/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV4.java)
 - ✅ [Mortgage Calculator (V5)](Projects/Part1/MortgageCalculator/src/com/mweinstein/MortgageCalculatorV5.java)
