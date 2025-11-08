@@ -1,4 +1,4 @@
-package com.mweinstein.HelloWorld_1;
+package com.mweinstein.p1_helloworld;
 
 public class Main {
 

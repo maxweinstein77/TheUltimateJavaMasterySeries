@@ -1,4 +1,4 @@
-package com.mweinstein.Variables_2;
+package com.mweinstein.p2_variables;
 
 public class Main {
 
