@@ -22,6 +22,4 @@ public class Main {
    }
 }
 
-/*
-Strings are immutable in java.
- */
+// Strings are immutable in java.

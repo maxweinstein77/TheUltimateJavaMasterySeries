@@ -1,3 +1,4 @@
+
 package com.mweinstein.p2_variables;
 
 public class Main {
@@ -12,6 +13,4 @@ public class Main {
     }
 }
 
-/*
-To run program, press ctrl + R
- */
+// to run program, press ctrl + R
