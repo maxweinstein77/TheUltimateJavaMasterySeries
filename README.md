@@ -5,4 +5,4 @@ This repo contains my code for the [The Ultimate Java Mastery Series](https://co
 ## 🧩 Projects
 
 ### Part 1: Fundamentals
-- ✅ [Hello World](Projects/Part1/HelloWorld/src/com/mweinstein/HelloWorld.java)
+- ✅ [Hello World](Part1/src/com/mweinstein/p1_helloworld/Main.java)
