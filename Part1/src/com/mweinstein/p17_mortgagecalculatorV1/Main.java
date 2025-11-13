@@ -1,4 +1,4 @@
-package com.mweinstein.p17_mortgagecalculator;
+package com.mweinstein.p17_mortgagecalculatorV1;
 
 import java.text.NumberFormat;
 import java.util.Scanner;
