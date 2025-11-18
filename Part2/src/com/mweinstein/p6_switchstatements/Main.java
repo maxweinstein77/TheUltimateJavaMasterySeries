@@ -14,7 +14,6 @@ public class Main {
          System.out.println("You're a guest");
 
       // Switch statement implementation (string form)
-
       String role2 = "admin";
       switch (role2) {
          case "admin":
