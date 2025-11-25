@@ -8,3 +8,4 @@ This repo contains my code for the [The Ultimate Java Mastery Series](https://co
 - ✅ [Hello World](Part1/src/com/mweinstein/p1_helloworld/Main.java)
 - ✅ [Mortgage Calculator (V1)](Part1/src/com/mweinstein/p17_mortgagecalculatorV1/Main.java)
 - ✅ [FizzBuzz](Part2/src/com/mweinstein/p7_fizzbuzz/Main.java)
+- ✅ [Mortgage Calculator (V2)](Part1/src/com/mweinstein/p13_mortgagecalculatorV2/Main.java)
