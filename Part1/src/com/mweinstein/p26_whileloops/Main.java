@@ -1,4 +1,4 @@
-package com.mweinstein.p9_whileloops;
+package com.mweinstein.p26_whileloops;
 
 import java.util.Scanner;
 

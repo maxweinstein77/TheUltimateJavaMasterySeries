@@ -1,4 +1,4 @@
-package com.mweinstein.p11_breakandcontinuestatements;
+package com.mweinstein.p28_breakandcontinuestatements;
 
 import java.util.Scanner;
 

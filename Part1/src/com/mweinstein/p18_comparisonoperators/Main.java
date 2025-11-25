@@ -1,4 +1,4 @@
-package com.mweinstein.p1_comparisonoperators;
+package com.mweinstein.p18_comparisonoperators;
 
 public class Main {
 

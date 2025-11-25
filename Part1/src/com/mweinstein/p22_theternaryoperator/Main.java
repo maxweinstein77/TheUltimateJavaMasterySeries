@@ -1,4 +1,4 @@
-package com.mweinstein.p5_theternaryoperator;
+package com.mweinstein.p22_theternaryoperator;
 
 public class Main {
 

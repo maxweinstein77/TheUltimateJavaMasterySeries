@@ -1,4 +1,4 @@
-package com.mweinstein.p6_switchstatements;
+package com.mweinstein.p23_switchstatements;
 
 public class Main {
 

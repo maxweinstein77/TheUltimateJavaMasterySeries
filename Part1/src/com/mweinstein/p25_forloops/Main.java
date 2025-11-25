@@ -1,4 +1,4 @@
-package com.mweinstein.p8_forloops;
+package com.mweinstein.p25_forloops;
 
 public class Main {
 

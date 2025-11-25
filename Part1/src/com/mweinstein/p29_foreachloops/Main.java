@@ -1,4 +1,4 @@
-package com.mweinstein.p12_foreachloops;
+package com.mweinstein.p29_foreachloops;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.mweinstein.p2_logicaloperators;
+package com.mweinstein.p19_logicaloperators;
 
 public class Main {
 

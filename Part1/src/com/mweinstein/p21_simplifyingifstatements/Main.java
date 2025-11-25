@@ -1,4 +1,4 @@
-package com.mweinstein.p4_simplifyingifstatements;
+package com.mweinstein.p21_simplifyingifstatements;
 
 public class Main {
 

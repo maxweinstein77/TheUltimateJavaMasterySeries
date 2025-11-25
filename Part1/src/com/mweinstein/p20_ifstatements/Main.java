@@ -1,4 +1,4 @@
-package com.mweinstein.p3_ifstatements;
+package com.mweinstein.p20_ifstatements;
 
 public class Main {
 
