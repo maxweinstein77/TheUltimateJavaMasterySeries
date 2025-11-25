@@ -21,7 +21,7 @@ public class Main {
        * Wrong version:
        *
        * String input = "";
-       *    while (input != "quit")
+       * while (input != "quit")
        *
        * Input is a string which is a reference type, and we cannot use
        * comparison operators between reference types because these
@@ -39,6 +39,3 @@ public class Main {
       }
    }
 }
-
-
-

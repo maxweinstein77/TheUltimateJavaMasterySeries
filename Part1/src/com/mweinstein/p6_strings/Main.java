@@ -11,7 +11,7 @@ public class Main {
       System.out.println(message1.length());
       System.out.println(message1.indexOf("H"));
       System.out.println(message1.indexOf("sky"));
-      System.out.println(message1.replace("!","*"));
+      System.out.println(message1.replace("!", "*"));
       System.out.println(message1.toLowerCase());
       System.out.println(message1.toUpperCase());
       System.out.println(message1);

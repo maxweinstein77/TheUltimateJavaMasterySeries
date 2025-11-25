@@ -21,8 +21,7 @@ public class Main {
       if (temp2 > 30) {
          System.out.println("It's a hot day");
          System.out.println("Drink water");
-      }
-      else if (temp2 > 20)
+      } else if (temp2 > 20)
          System.out.println("Beautiful day");
       else
          System.out.println("Cold day");

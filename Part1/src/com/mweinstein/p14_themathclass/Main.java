@@ -6,10 +6,10 @@ public class Main {
       int result1 = Math.round(1.1F);
       System.out.println(result1);
 
-      int result2 = (int)Math.ceil(1.1F);
+      int result2 = (int) Math.ceil(1.1F);
       System.out.println(result2);
 
-      int result3 = (int)Math.floor(1.1F);
+      int result3 = (int) Math.floor(1.1F);
       System.out.println(result3);
 
       int result4 = Math.max(1, 2);

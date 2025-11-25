@@ -8,7 +8,7 @@ public class Main {
       int result3 = 10 * 3;
       int result4 = 10 / 3;
       // expression - piece of code that generates a value
-      double result5 = (double)10 / (double)3; // 10 and 3 are operands
+      double result5 = (double) 10 / (double) 3; // 10 and 3 are operands
       System.out.println(result1);
       System.out.println(result2);
       System.out.println(result3);

@@ -23,7 +23,7 @@ public class Main {
 
       // explicit casting (can only happen between compatible types
       double x3 = 1.1;
-      int y3 = (int)x3 + 2; // 3
+      int y3 = (int) x3 + 2; // 3
       System.out.println(y3);
 
       String x = "1.1";

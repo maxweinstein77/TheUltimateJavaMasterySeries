@@ -26,7 +26,8 @@ public class Main {
  * variable is going to hold the address of that point object in memory,
  * not the actual point object.
  *
- * Reference types don't store actual values. They store a reference to an object
+ * Reference types don't store actual values. They store a reference to an
+ * object
  * somewhere in the memory.
  *
  * Primitive types copied by their value, and these values are completely

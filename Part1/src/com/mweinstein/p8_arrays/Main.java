@@ -12,9 +12,9 @@ public class Main {
       numbers1[1] = 2;
 
       /*
-      When you print array, Java returns string which is calculated based on
-      address of object in memory.
-      */
+       * When you print array, Java returns string which is calculated based on
+       * address of object in memory.
+       */
       System.out.println(numbers1);
 
       // return string representation of array
